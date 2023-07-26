@@ -8,7 +8,7 @@ Projeto criado durante o curso de Java da Alura. A proposta é desenvolver um pr
 
 ```
 Nome:
-Tipo conta:
+Conta:
 Saldo disponível: R$
 ```
 
